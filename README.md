@@ -56,8 +56,3 @@ payment method, tenure, and monthly charges
 - Incentivize automatic payment methods to reduce electronic check usage
 - Investigate fiber optic service quality and pricing competitiveness
 - Build a customer health score to proactively flag high risk customers
-
-## How to Run
-1. Open the notebook in Google Colab
-2. Upload the Telco-Customer-Churn.xlsx file when prompted
-3. Run all cells in order

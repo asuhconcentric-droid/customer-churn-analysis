@@ -1,6 +1,10 @@
 # Customer Churn Analysis
 ### Identifying Retention Risk and Business Insights
 
+## View the Notebook
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/asuhconcentric-droid/customer-churn-analysis/blob/main/Customer_Churn_Analysis.ipynb)
+
+
 ## Overview
 This project analyzes customer churn behavior using the 
 Telco Customer Churn dataset from Kaggle. The goal is to 

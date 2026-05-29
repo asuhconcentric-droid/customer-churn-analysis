@@ -32,6 +32,24 @@ payment method, tenure, and monthly charges
 5. Fiber optic customers churn at 41.9% -- nearly double the DSL rate
 6. Highest risk segment: Month-to-month + Fiber optic + Electronic check = 60.4% churn rate
 
+## Visualizations
+
+### Overall Churn Rate
+![Churn Rate](churn_rate.png)
+
+### Churn Rate by Contract Type
+![Churn by Contract](churn_by_contract.png)
+
+### Churn Rate by Tenure Group
+![Churn by Tenure](churn_by_tenure.png)
+
+### Monthly Charges Distribution
+![Monthly Charges](monthly_charges.png)
+
+### Churn Rate by Payment Method
+![Churn by Payment](churn_by_payment.png)
+
+
 ## Business Recommendations
 - Launch a contract upgrade incentive program targeting month-to-month customers
 - Focus retention efforts on customers in their first 6 months

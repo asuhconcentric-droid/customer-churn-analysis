@@ -2,7 +2,7 @@
 ### Identifying Retention Risk and Business Insights
 
 ## View the Notebook
-[Click here to view on NBViewer](https://nbviewer.org/github/asuhconcentric-droid/customer-churn-analysis/blob/main/Customer_Churn_Analysis.ipynb)
+[Click here to view on NBViewer](https://github/asuhconcentric-droid/customer-churn-analysis/blob/main/Customer_Churn_Analysis.ipynb)
 
 ## Overview
 This project analyzes customer churn behavior using the 
